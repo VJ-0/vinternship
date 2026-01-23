@@ -71,7 +71,7 @@ Taking leave is **discouraged**, as you may miss important updates shared during
 
 However, if you must take the leave, follow the steps below:
 
-- Write a message in the **main Cliq Channel** stating the reason for your leave
+- Write a message in the **main Cliq Channel/Thread** stating the reason for your leave
 - Tag **@Nitin Sankar A** sir, **@Jinal Gupta** ma’am, and **@Harshdeep R** ma’am in the message
 - Post the request **at least one day in advance**
 - Clearly mention:
